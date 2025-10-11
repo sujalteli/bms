@@ -44,7 +44,7 @@ const BooksPage: React.FC = () => {
 
   return (
     <div>
-      <h2>Book List</h2>
+      <h2>Book Lists</h2>
       <Button variant="contained" color="primary" onClick={() => handleOpen()}>
         Add Book
       </Button>
